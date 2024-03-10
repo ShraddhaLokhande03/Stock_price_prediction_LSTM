@@ -29,7 +29,7 @@ Here are the key features and components of LSTM:
 ### 7. Advantages:
    - LSTMs address the vanishing gradient problem, allowing for the effective training of deep networks on sequential data.
    - They can capture long-range dependencies, making them suitable for tasks where context matters over extended sequences.
-     ```
+     
 
 ### 8. Applications:
    - LSTMs are used in a wide range of applications, including natural language processing (e.g., language modeling, machine translation), time series prediction, speech recognition, and more.
