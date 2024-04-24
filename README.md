@@ -1,5 +1,7 @@
 # LSTM : LONG SHORT -TERM MEMORY
 
+deep learning
+
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture designed to address the vanishing gradient problem in traditional RNNs. LSTMs are particularly effective in handling sequences of data and have been widely used in various applications, including natural language processing, speech recognition, time series analysis, and more.
 
 Here are the key features and components of LSTM:
